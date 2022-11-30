@@ -299,8 +299,10 @@ source("Source/MiDataProc.Taxa.Paired.Mult.R")
         tabItem(tabName = "home",
                 div(id = "homepage", br(), HOME_COMMENT,
                     tags$ol(
-                      tags$li(HOME_COMMENT1), tags$li(HOME_COMMENT2), tags$li(HOME_COMMENT3), tags$li(HOME_COMMENT4), tags$li(HOME_COMMENT5), HOME_COMMENT6,
+                      tags$li(HOME_COMMENT1), tags$li(HOME_COMMENT2), tags$li(HOME_COMMENT3), tags$li(HOME_COMMENT4), tags$li(HOME_COMMENT5), 
                       style = "font-size:13pt"), 
+                    br(),
+                    HOME_COMMENT6,
                     div(tags$img(src="mipair_workflow.png", height = 900, weight = 500), style =  "text-align: center;"),
                     br(), 
                      
