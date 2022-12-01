@@ -97,7 +97,7 @@ source("Source/MiDataProc.Taxa.Paired.Mult.R")
   HOME_COMMENT3 = ("Comparative analysis between baseline (or reference) and other groups")
   HOME_COMMENT4 = ("Parametric or non-parametric tests for incomplete or complete block designs")
   HOME_COMMENT5 = ("Both ecological (alpha-and beta-diversity) and taxonomic (e.g., phylum, class, order, family, genus, species) analysis")
-  HOME_COMMENT6 = p(strong("Reference"), ": Jang H, Koh H, Gu W, Kang B. (2022) Integrative web cloud computing and analytics using MiPair for design-based comparative analysis with paired microbiome data.", em(strong("Scientific Reports")), "12:20465", a("https://doi.org/10.1038/s41598-022-25093-6"), ".", style = "font-size:13pt")
+  HOME_COMMENT6 = p(strong("Reference"), ": Jang H, Koh H, Gu W, Kang B. (2022) Integrative web cloud computing and analytics using MiPair for design-based comparative analysis with paired microbiome data.", em(strong("Scientific Reports")), "12:20465", tags$a(href = "https://doi.org/10.1038/s41598-022-25093-6", "https://doi.org/10.1038/s41598-022-25093-6"), ".", style = "font-size:13pt")
   
   INPUT_PHYLOSEQ_COMMENT1 = p("Description:", br(), br(), "This should be an '.Rdata' or '.rds' file, and the data should be in 'phyloseq' format (see ", 
                               a(tags$u("https://bioconductor.org/packages/release/bioc/html/phyloseq.html"), style = "color:red3"),
