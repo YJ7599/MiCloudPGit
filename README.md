@@ -4,8 +4,6 @@ Title: Integrative Web Cloud Computing and Analytics Using MiPair for Design-bas
 
 Version: 1.0.0
 
-Maintainer: Hyo Jung Jang <hyojung.jang@northwestern.edu>
-
 Description: MiPair is an integrative web cloud service for design-based comparative analysis with paired microbiome data. Pairing (or blocking) is a design technique that is widely used in comparative microbiome studies to efficiently control for the effects of potential confounders (e.g., genetic, environmental, or behavioral factors). Some typical paired (block) designs for human microbiome studies are repeated measures designs that profile each subject's microbiome twice (or more than twice) 1) for pre and post treatments to see the effects of a treatment on microbiome, or 2) for different organs of the body (e.g., gut, mouth, skin) to see the disparity in microbiome between (or across) organs. MiPair enables comprehensive comparative analysis in sequence for such paired microbiome studies on user-friendly web environments. Detailed features are as follows.
 
 * A variety of data uploading, quality controlling, analytic and graphical procedures that produce publishable data, tables, and plots
@@ -24,7 +22,7 @@ License: GPL 1, GPL 2
 
 **URLs**: Web Server (http://mipair.micloud.kr), GitHub (http://github.com/yj7599/MiPairGit) 
 
-**Maintainer**: Hyojung Jang (hyojung.jang@stonybrook.edu)
+**Maintainer**: Hyojung Jang (hyojung.jang@northwestern.edu)
 
 **Reference**: Jang H, Koh H, Gu W, Kang B. (2022) Integrative web cloud computing and analytics using MiPair for design-based comparative analysis with paired microbiome data. *Scientific Reports* 12(20465).
 
