@@ -26,7 +26,7 @@ License: GPL 1, GPL 2
 
 **Maintainer**: Hyojung Jang (hyojung.jang@stonybrook.edu)
 
-**Reference**: Jang H, Koh H, Gu W, Kang B. (2022) Integrative web cloud computing and analytics using MiPair for design-based comparative analysis with paired microbiome data. Scientific Reports 12(20465).
+**Reference**: Jang H, Koh H, Gu W, Kang B. (2022) Integrative web cloud computing and analytics using MiPair for design-based comparative analysis with paired microbiome data. *Scientific Reports* 12(20465).
 
 ## Prerequites
 
