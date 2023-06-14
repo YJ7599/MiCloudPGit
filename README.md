@@ -22,15 +22,11 @@ Imports: Bioconductor ('BiocParallel', 'biomformat', 'phyloseq'); CRAN ('betareg
 
 License: GPL 1, GPL 2 
 
-## URLs: 
-* Web Server (http://mipair.micloud.kr), GitHub (http://github.com/yj7599/MiPairGit) 
+**URLs**: Web Server (http://mipair.micloud.kr), GitHub (http://github.com/yj7599/MiPairGit) 
 
-## Maintainer: 
-* Hyojung Jang (hyojung.jang@stonybrook.edu)
+**Maintainer**: Hyojung Jang (hyojung.jang@stonybrook.edu)
 
-## References
-
-* Jang H, Koh H, Gu W, Kang B. (2022) Integrative web cloud computing and analytics using MiPair for design-based comparative analysis with paired microbiome data. Scientific Reports 12(20465).
+**Reference**: Jang H, Koh H, Gu W, Kang B. (2022) Integrative web cloud computing and analytics using MiPair for design-based comparative analysis with paired microbiome data. Scientific Reports 12(20465).
 
 ## Prerequites
 
